@@ -1,0 +1,2 @@
+Ce projet en React a été conçu pour permettre à un utilisateur de pouvoir emmagasiner sur en ligne. C’était un projet final dans le but de boucler une session sur la programmation web. L’utilisation de ce code de programme nécessite au préalable l’installation sur votre ordinateur le nodejs et d’autres package nécessaires pour faire fonctionner ce projet. D’autres, projet en React seront ajoutés dans ce module au besoin du grand public. 
+Cliquer ici pour aller à la page d’accueil:
